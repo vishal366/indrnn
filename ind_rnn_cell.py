@@ -1,4 +1,4 @@
-"""Module implementing the IndRNN cpll"""
+"""Module implementing the IndRNN cell"""
 
 from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import init_ops
